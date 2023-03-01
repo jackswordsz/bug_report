@@ -2,8 +2,6 @@
 
 BUG_Author:jackswordsz
 
-Source website address:https://www.sourcecodester.com/php/11355/online-catering-reservation.html
-
 Vulnerability File: /reservation/add_message.php
 
 POST parameter 'fullname' exists SQL injection vulnerability
